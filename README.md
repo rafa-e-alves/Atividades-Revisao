@@ -1,2 +1,2 @@
-# Atividades-Revisao
+# Atividades de Revisão
 Atividades de Revisão para A1 - Programação de Soluções Computacionais - Rafael Evangelista Alves
